@@ -1,12 +1,37 @@
 {
-  "user": [
+  "users": [
     {
-      "username": "arbaz",
-      "fullName": "Arbaz Hussain",
-      "email": "arbaz@gmail.com",
-      "password": "1",
-      "avatar": "https://i.pravatar.cc/300",
+      "name": "Arbaz",
+      "age": 20,
+      "gender": "Male",
+      "country": "India",
+      "profession": "Student",
       "id": 1
+    },
+    {
+      "name": "Salman",
+      "age": "21",
+      "gender": "male",
+      "country": "India",
+      "profession": "Employed",
+      "id": 2
+    },
+    {
+      "name": "Arman",
+      "age": "19",
+      "gender": "male",
+      "country": "India",
+      "profession": "Student",
+      "id": 3
+    },
+    {
+      "name": "Anmol",
+      "age": "16",
+      "gender": "male",
+      "country": "India",
+      "profession": "Student",
+      "id": 4
     }
-  ]
+  ],
+  "posts": []
 }
