@@ -20,17 +20,25 @@
       "name": "Arman",
       "age": "19",
       "gender": "male",
-      "country": "India",
-      "profession": "Student",
+      "country": "England",
+      "profession": "Employed",
       "id": 3
     },
     {
       "name": "Anmol",
       "age": "16",
       "gender": "male",
-      "country": "India",
+      "country": "America",
       "profession": "Student",
       "id": 4
+    },
+    {
+      "name": "Roshni",
+      "age": "22",
+      "gender": "female",
+      "country": "America",
+      "profession": "Employed",
+      "id": 5
     }
   ],
   "posts": []
